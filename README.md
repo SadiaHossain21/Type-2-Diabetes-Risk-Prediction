@@ -1,8 +1,8 @@
-# Type 2 Diabetes Risk Prediction 🧬
+# Type 2 Diabetes Risk Prediction 
 
 This project aims to predict whether an individual is at risk of developing **Type 2 Diabetes** based on clinical features using machine learning techniques.
 
-## 📊 Overview
+## Overview
 
 The dataset includes features such as:
 - Glucose
@@ -13,7 +13,7 @@ The dataset includes features such as:
 - Blood pressure
 - Skin thickness
 
-## 🔬 Project Workflow
+## Project Workflow
 
 1. **Data Loading & Cleaning**
    - Handling missing values and anomalies
@@ -27,20 +27,26 @@ The dataset includes features such as:
 5. **Model Evaluation**
    - Accuracy, Confusion Matrix, ROC AUC
 
-## 📈 Key Findings
+## Key Findings
 
 - Glucose and BMI are the strongest predictors.
 - Feature normalization improves model performance.
 - Ensemble models yield higher predictive accuracy.
 
-## 🧠 Tools Used
+## Tools Used
 
 - Python
 - Pandas, NumPy
 - Scikit-learn
 - Matplotlib, Seaborn
 
-## 🚀 How to Run
+## How to Run
+Please follow the steps:
 
-```bash
-jupyter notebook type-2-diabetes-risk-prediction.ipynb
+1. Open a terminal or command prompt.
+
+2. Navigate to the folder where your .ipynb file is located.
+
+3. Run "jupyter notebook type-2-diabetes-risk-prediction.ipynb."
+
+This will launch the notebook in a web browser so that you can explore, run, or edit it interactively.
